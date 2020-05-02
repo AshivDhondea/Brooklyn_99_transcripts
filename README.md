@@ -4,7 +4,7 @@ Brooklyn Nine Nine (B99) - harvesting episode transcripts &amp; analyzing them
 * **Hans Dhondea** - *This repo* - [AshivDhondea](https://github.com/AshivDhondea)
 
 ## Source
-\url{https://brooklyn99.fandom.com/wiki/}
+https://brooklyn99.fandom.com/wiki/
 
 ## Quick readme
 main_fetching_transcripts.py -> fetch web page and create txt files for the transcripts.
